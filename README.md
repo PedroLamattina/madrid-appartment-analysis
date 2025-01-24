@@ -9,6 +9,6 @@ Conducted statistical analysis to identify market trends and provide actionable 
 
 - **Tools Used:** Python (NumPy, Pandas, Seaborn, Matplotlib).
 
-  You can download the document called 'Comparativa Pisos en Madrid' fir the analysis made, and the ipynb file, 'Clean - Project'. 
+  You can download the document called 'Comparativa Pisos en Madrid' for the analysis made, and the ipynb file, 'Clean - Project'. 
    
 - **Outcome:** Provided data-backed recommendations to apartment developers and rental agencies.  
